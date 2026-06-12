@@ -27,7 +27,7 @@ Passionate Programmer • Problem Solver • ML Enthusiast • Research Explorer
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+  <a href="https://x.com/isshejyoti">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
 </p>
