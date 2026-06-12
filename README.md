@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Jyoti Yadav
+  Hi, I'm Jyoti Yadav :)
 </h1>
 
 <h3 align="center">
@@ -34,7 +34,7 @@ Passionate Programmer • Problem Solver • ML Enthusiast • Research Explorer
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```cpp
 class JyotiYadav {
