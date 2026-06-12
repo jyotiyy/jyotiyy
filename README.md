@@ -39,7 +39,7 @@ Passionate Programmer • Problem Solver • ML Enthusiast • Research Explorer
 ```cpp
 class JyotiYadav {
 public:
-    string role = "Software Developer";
+    string role = "Student";
     vector<string> interests = {
         "Machine Learning",
         "Research",
