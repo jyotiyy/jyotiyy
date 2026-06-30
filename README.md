@@ -1,57 +1,242 @@
-<h1 align="center">
-  Hi, I'm Jyoti Yadav :)
-</h1>
+<div align="center">
 
-<h3 align="center">
-Passionate Programmer • Problem Solver • ML Enthusiast • Research Explorer • Web Developer • DevOps Learner
-</h3>
+# Hi, I'm Jyoti Yadav
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jyotiyadav24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+### AI & ML Undergraduate • Software Developer • Research Enthusiast • Competitive Programmer
 
-<p align="center">
-  <a href="https://leetcode.com/u/jyotiyy/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solver-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/jyotiyadav24">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive_Programmer-blue?style=for-the-badge&logo=codeforces" />
-  </a>
+<br>
 
-  <a href="https://www.linkedin.com/in/jyoti-yadav-293330326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<img src="https://media1.tenor.com/m/mRwC6FkfujUAAAAd/ghibli.gif" width="900">
 
-  <a href="mailto:jyotiyyadav06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+<br><br>
 
-  <a href="https://x.com/isshejyoti">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=jyotiyadav24&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-#  About Me
+# Architecture
 
 ```cpp
 class JyotiYadav {
+
 public:
-    string role = "Student";
-    vector<string> interests = {
+
+    string role = "B.Tech AI & ML Student";
+
+    vector<string> domains = {
+        "Artificial Intelligence",
         "Machine Learning",
-        "Research",
-        "Web Development",
+        "Full Stack Development",
         "DevOps",
-        "Competitive Programming",
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "Computer Networks"
+    };
+
+    vector<string> currentlyLearning = {
+        "Deep Learning",
+        "React",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
         "System Design"
     };
 
-    string currentFocus =
-        "Building impactful software and exploring AI/ML.";
+    string objective =
+        "Building scalable software, contributing to open source, "
+        "and pursuing research in AI.";
 
-    string motto =
-        "Code. Learn. Build. Repeat.";
 };
+```
+
+---
+
+# Tech Stack
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode"/>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Development Workflow
+
+```text
+        Learn
+          │
+          ▼
+ Practice Problems
+          │
+          ▼
+     Build Projects
+          │
+          ▼
+   Open Source
+          │
+          ▼
+   Research & Innovation
+          │
+          ▼
+ Continuous Improvement
+```
+
+---
+
+# Current Focus
+
+```
+Machine Learning
+███████████████████░░ 90%
+
+Web Development
+█████████████████░░░░ 82%
+
+Data Structures & Algorithms
+██████████████████░░░ 88%
+
+DevOps
+██████████████░░░░░░░ 70%
+
+System Design
+████████████░░░░░░░░░ 60%
+```
+
+---
+
+# Featured Areas
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Bayesian Networks
+- Neural Networks
+- Data Analysis
+
+</td>
+
+<td width="50%">
+
+### Software Engineering
+
+- Full Stack Development
+- REST APIs
+- Database Design
+- Clean Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Computer Science
+
+- Data Structures
+- Algorithms
+- Operating Systems
+- Computer Networks
+
+</td>
+
+<td width="50%">
+
+### DevOps
+
+- Docker
+- Linux
+- Git
+- CI/CD
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jyotiyadav24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiyadav24&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiyadav24&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Competitive Programming
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| LeetCode | https://leetcode.com/u/jyotiyy/ |
+| Codeforces | https://codeforces.com/profile/jyotiyadav24 |
+
+</div>
+
+---
+
+# Philosophy
+
+> Build meaningful software.  
+> Learn continuously.  
+> Solve challenging problems.  
+> Leave every project better than it started.
+
+---
+
+<div align="center">
+
+### Thanks for visiting.
+
+</div>
