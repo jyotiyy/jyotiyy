@@ -41,10 +41,6 @@ public:
 </table>
 <div align="center">
 
-## **Live a life less ordinary.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=jyotiyadav24&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<h2><strong><span style="color:#58A6FF;">Live a life less ordinary.</span></strong></h2>
 
 </div>
