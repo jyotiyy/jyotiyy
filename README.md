@@ -23,28 +23,14 @@ class JyotiYadav {
 
 public:
 
-    string role = "AI & ML Undergraduate";
-
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Development",
-        "Competitive Programming",
-        "Research"
+    vector<string> skills = {
+        "AI & ML",
+        "Full Stack",
+        "DSA",
+        "DevOps"
     };
 
-    vector<string> currentlyLearning = {
-        "Deep Learning",
-        "React",
-        "Node.js",
-        "Docker",
-        "Kubernetes",
-        "System Design"
-    };
-
-    string goal =
-        "Building impactful software, contributing to open source, "
-        "and pursuing AI research.";
+    string goal = "Learn, build, and create technology that matters.";
 
 };
 ```
