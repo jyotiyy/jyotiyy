@@ -39,8 +39,5 @@ public:
 </td>
 </tr>
 </table>
-<div align="center">
 
-<h2><strong><span style="color:#FFD700;">Live a life less ordinary</span></strong></h2>
 
-</div>
