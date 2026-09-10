@@ -6,7 +6,7 @@
 Hey, I'm **Jyoti Yadav**, an ardent Computer Science learner passionate about transforming ideas into solutions. 
 ---
 <p align="center">
-  <em>"A model that never encounters noise never learns robustness.   ;)"</em>
+  <em>"A model that never encounters noise never learns robustness. "</em>
 </p>
 
 
