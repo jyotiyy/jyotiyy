@@ -1,8 +1,20 @@
+<h1 align="center">Jyoti Yadav</h1>
+
 <p align="center">
-  <strong><em>"A model that never encounters noise never learns robustness."</em></strong>
+  <strong>Ardent Computer Science Learner • AI & ML Enthusiast r</strong>
 </p>
 
-<br><br><br>
+<p align="center">
+  <em>"A model that never encounters noise never learns robustness."</em>
+</p>
+
+---
+
+## About Me
+
+I'm **Jyoti Yadav**, an ardent Computer Science learner passionate about transforming ideas into solutions. 
+
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
