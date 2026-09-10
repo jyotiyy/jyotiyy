@@ -1,7 +1,7 @@
 <h1 align="center">Jyoti Yadav</h1>
 
 <p align="center">
-  <strong>Ardent Computer Science Learner • AI & ML Enthusiast</strong>
+  <strong>Computer Science  • AI & ML </strong>
 </p>
 
 <p align="center">
